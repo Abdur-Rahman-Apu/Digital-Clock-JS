@@ -15,4 +15,16 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #f6d2d2;
+}
+.clock-container {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 3rem;
+  border-radius: 10px;
+  background-color: #fabfbf;
+  box-shadow: 5px 5px 5px #574949;
 }
