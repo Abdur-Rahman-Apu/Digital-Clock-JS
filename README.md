@@ -8,7 +8,7 @@ A digital clock built with HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Home page](https://github.com/Abdur-Rahman-Apu/Digital-Clock-JS/tree/101861a0bcfbb8329d768e79f17b90de79f15237/screenshots)
+![Home page](./screenshots/digital-clock.png)
 
 ## Tech Stack
 
